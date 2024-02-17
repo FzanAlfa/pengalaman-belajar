@@ -6,4 +6,4 @@
 
 # 18 Febuari 2024
   Saya berencana menyelesaikan modul yang berjudul 'Belajar Dasar Git dengan GitHub' pada sore hari
-    - Semoga terselesaikan
+   - Semoga terselesaikan
